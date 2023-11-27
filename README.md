@@ -10,17 +10,17 @@ I have compiled various resources to present my interpretation and understanding
 #### Presentation Slides
 For a structured and visual representation of my understanding, check out the PowerPoint slides available on SlideShare:
 
-Zero-Shot Bilingual App Review Analysis - SlideShare
+[Zero-Shot Bilingual App Review Analysis - SlideShare](https://www.slideshare.net/pallavivangari1/zeroshotbilingualappreviewanalysispptx)
 
 #### Explainer Video
 I have also created a video where I explain the PowerPoint slides in depth, providing a more interactive way to understand the concepts:
 
-Explainer Video on YouTube
+[Explainer Video on YouTube](https://www.youtube.com/watch?v=zYAZ662oNr4&feature=youtu.be)
 
 ##### Medium Article
 Read my article on Medium where I elaborate on how large language models can decode app reviews, offering insights into the practical applications of this technology:
 
-Understanding Zero-Shot Learning in App Reviews - Medium
+[Understanding Zero-Shot Learning in App Reviews - Medium](https://medium.com/@pallavi.vangari/unlocking-the-wisdom-of-crowds-how-large-language-models-can-decode-app-reviews-a01a1132e797)
 
 #### Feedback and Discussion
 I welcome any feedback, questions, or discussions regarding this topic. Feel free to reach out through the issues section of this repository or any of the linked platforms. Your insights and perspectives would be highly valued.
